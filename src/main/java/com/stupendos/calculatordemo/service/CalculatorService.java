@@ -4,6 +4,7 @@ import org.springframework.stereotype.Service;
 
 import static java.lang.Integer.sum;
 
+
 @Service
 public class CalculatorService {
     public Integer plus(Integer num1, Integer num2) {
