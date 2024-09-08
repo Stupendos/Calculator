@@ -1,5 +1,4 @@
 package com.stupendos.calculatordemo.calculator.controller;
-
 import com.stupendos.calculatordemo.exception.DivideByZeroException;
 import com.stupendos.calculatordemo.exception.NullParametersException;
 import com.stupendos.calculatordemo.service.CalculatorService;
